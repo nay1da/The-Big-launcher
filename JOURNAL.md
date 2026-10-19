@@ -10,12 +10,12 @@
 
 | Week | Tier | Hours logged | Entries |
 | --- | --- | --- | --- |
-| Week 2 | Tier 1 | 5.23h | 3 |
+| Week 2 | Tier 1 | 5.68h | 3 |
 
 ## Contents
 
 1. [2026-10-17 – Work session](#2026-10-17-work-session)
-2. [2026-10-18 – Work session](#2026-10-18-work-session)
+2. [2026-10-18 – Work session, I spent some time before modeling reassuring more about launchers, It is a very unique area with surprisingly a lot of information to be found about it. Originally i wanted to change my](#2026-10-18-work-session-i-spent-some-time-before-modeling-re)
 3. [2026-10-18 – Work session](#2026-10-18-work-session)
 
 ## Design
@@ -28,9 +28,15 @@ Work session
 
 [Timelapse](https://lookout.hackclub.com/api/media/8518cad8-dfa9-4691-aeb4-33bcd8dcf932/video.mp4)
 
-### 2026-10-18 – Work session
+### 2026-10-18 – Work session, I spent some time before modeling reassuring more about launchers, It is a very unique area with surprisingly a lot of information to be found about it. Originally i wanted to change my
 
-**2.1h**
+**2.55h**
+
+Work session, I spent some time before modeling reassuring more about launchers, It is a very unique area with surprisingly a lot of information to be found about it. Originally i wanted to change my idea to a bow and arrow like this image i made
+
+Then i was like i should make something like this that spins but i realized that would be hard to release the object
+
+So then i settled on what i had and called it a day
 
 [Timelapse](https://lookout.hackclub.com/api/media/7fbaac0b-4752-487e-9576-05b7127836d1/video.mp4)
 
